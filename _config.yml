@@ -5,6 +5,7 @@ theme: just-the-docs
 url: https://danmostlyharmless.github.io/echoesoflegendrpg
 
 permalink: pretty
+nav_enabled: true
 
 defaults:
   - scope:
