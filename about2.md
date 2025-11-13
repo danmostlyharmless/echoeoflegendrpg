@@ -1,7 +1,7 @@
 ---
 title: About
-layout: default
-nav_order: 2
+layout: about
+nav_order: 1
 parent: home
 ---
 
