@@ -3,6 +3,6 @@ title: Docs
 nav_order: 2
 ---
 
-# Navigation
+# Documents
 
-The default page layout supports various navigation features:
+Various documents
